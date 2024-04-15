@@ -409,7 +409,11 @@ width: 80%;
     max-width: 200px;
 }
 
-
+.img-cards-2 img{
+height: 120px;
+width: 120px;
+border-radius: 10px;
+}
 
 
 
